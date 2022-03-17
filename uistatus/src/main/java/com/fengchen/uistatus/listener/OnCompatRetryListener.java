@@ -1,7 +1,8 @@
 package com.fengchen.uistatus.listener;
 
-import android.support.annotation.NonNull;
 import android.view.View;
+
+import androidx.annotation.NonNull;
 
 import com.fengchen.uistatus.annotation.UiStatus;
 import com.fengchen.uistatus.controller.IUiStatusController;

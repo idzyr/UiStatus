@@ -1,10 +1,11 @@
 package com.fengchen.uistatus.controller;
 
-import android.support.annotation.IdRes;
-import android.support.annotation.IntRange;
-import android.support.annotation.LayoutRes;
-import android.support.annotation.NonNull;
 import android.util.SparseArray;
+
+import androidx.annotation.IdRes;
+import androidx.annotation.IntRange;
+import androidx.annotation.LayoutRes;
+import androidx.annotation.NonNull;
 
 import com.fengchen.uistatus.Postcard;
 import com.fengchen.uistatus.UiStatusConfig;

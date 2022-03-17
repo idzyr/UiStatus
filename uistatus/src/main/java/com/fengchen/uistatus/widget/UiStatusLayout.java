@@ -1,13 +1,14 @@
 package com.fengchen.uistatus.widget;
 
 import android.animation.LayoutTransition;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
 import android.util.SparseArray;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewStub;
 import android.widget.FrameLayout;
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 
 import com.fengchen.uistatus.Postcard;
 import com.fengchen.uistatus.R;

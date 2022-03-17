@@ -3,10 +3,11 @@ package com.fengchen.uistatus.demo;
 import android.app.Application;
 import android.content.Context;
 import android.os.Handler;
-import android.support.annotation.NonNull;
 import android.util.Log;
 import android.view.View;
 import android.widget.Toast;
+
+import androidx.annotation.NonNull;
 
 import com.fengchen.uistatus.UiStatusManager;
 import com.fengchen.uistatus.UiStatusNetworkStatusProvider;

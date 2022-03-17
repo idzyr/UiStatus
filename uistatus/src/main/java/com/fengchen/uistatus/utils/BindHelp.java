@@ -1,7 +1,6 @@
 package com.fengchen.uistatus.utils;
 
 import android.app.Activity;
-import android.support.annotation.NonNull;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
@@ -9,6 +8,8 @@ import android.widget.FrameLayout;
 import com.fengchen.uistatus.widget.UiStatusLayout;
 
 import static android.view.ViewGroup.LayoutParams.MATCH_PARENT;
+
+import androidx.annotation.NonNull;
 
 /**
  * Created by 段露 on 2019/02/01 11:28.
